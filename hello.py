@@ -1,1 +1,1 @@
-print("Hello, DevOps!")
+print("Git is awesome")
