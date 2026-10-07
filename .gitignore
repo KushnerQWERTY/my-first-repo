@@ -1,0 +1,9 @@
+#ignore files .log
+*.log
+
+#Ignore dirs __pycache__
+__pycache__/
+
+#Ignore secretfiles
+.env
+*.key
